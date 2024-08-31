@@ -17,7 +17,6 @@ const App = () =>{
     <>
     <Navigation/>
     <Search/>
-    <SearchResults/>
     <Footer/>
     
     </>
